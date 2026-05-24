@@ -1,6 +1,6 @@
 # 🚀 NeeroCMD - Консольная оболочка для Windows
 
-[![Copyright](https://img.shields.io/badge/COPYRIGHT-xoladev%20🚀-e35b52?style=for-the-badge)](https://github.com/xoladev)
+[![Copyright](https://img.shields.io/badge/COPYRIGHT-xoladev%20🔥-d65047?style=for-the-badge)](https://github.com/xoladev)
 [![Version](https://img.shields.io/badge/Version-1.5.3-blue?style=for-the-badge)](https://github.com/xoladev/Quantum-Experience/releases)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
 [![Downloads](https://img.shields.io/github/downloads/xoladev/NeeroCMD/total?style=for-the-badge&logo=github)]([https://github.com/xoladev/NeeroCMD/releases)
