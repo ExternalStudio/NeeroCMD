@@ -1,5 +1,6 @@
 # 🚀 NeeroCMD - Консольная оболочка для Windows
 
+[![Copyright](https://img.shields.io/badge/©%20xoladev%20🔥%202026-red?style=for-the-badge)](https://github.com/xoladev)
 [![Version](https://img.shields.io/badge/Version-1.5.3-blue?style=for-the-badge)](https://github.com/xoladev/Quantum-Experience/releases)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
 [![Downloads](https://img.shields.io/github/downloads/xoladev/NeeroCMD/total?style=for-the-badge&logo=github)]([https://github.com/xoladev/NeeroCMD/releases)
@@ -37,7 +38,3 @@ NeeroCMD - это кастомная консольная оболочка, на
 echo Это пример пользовательской команды
 echo Параметры: %*
 ```
-
----
-
-## © xoladev 🔥 2026
