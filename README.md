@@ -1,4 +1,4 @@
-# NeeroCMD - Консольная оболочка для Windows
+# 🚀 NeeroCMD - Консольная оболочка для Windows
 
 [![Version](https://img.shields.io/badge/Version-1.5.3-blue?style=for-the-badge)](https://github.com/xoladev/Quantum-Experience/releases)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
